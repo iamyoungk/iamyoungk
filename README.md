@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=43&desc=PgmYoung's%20GitHub%20Profile&descSize=20&descAlign=64&descAlignY=57)
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/younghk@umich.edu-EA4335?style=flat&logo=gmail&logoColor=E8E8E8"/></a>
+<a href="this%20is%20my%email" target="_blank"><img src="https://img.shields.io/badge/younghk@umich.edu-EA4335?style=flat&logo=gmail&logoColor=E8E8E8"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamyoungk&show_icons=true&theme=transparent)
