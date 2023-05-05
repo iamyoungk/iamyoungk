@@ -91,5 +91,5 @@ Here are some ideas to get you started:
 
 <br>
 
-![Young Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamyoungk&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true)
+![Young Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamyoungk&show_icons=true&theme=transparent&rank_icon=github)
 
