@@ -29,6 +29,10 @@ I am always eager to learn more.<br>
 I want to be a developer like a flower blooming between asphalt.
 </p>
 
+<p align="center" dir="auto">
+    <strong><g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png">⚒️</g-emoji>Tech Stack<g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png">⚒️</g-emoji></strong><br>
+</p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamyoungk&show_icons=true&theme=transparent)
 
 
