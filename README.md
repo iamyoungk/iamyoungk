@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&animation=fadeIn&fontSize=90&desc=Desc&descSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&animation=fadeIn&fontSize=70&desc=Desc&descSize=30)
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/younghk@umich.edu-EA4335?style=flat&logo=gmail&logoColor=E8E8E8"/></a>
 
