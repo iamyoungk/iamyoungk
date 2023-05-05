@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=43&desc=PgmYoung's%20GitHub%20Profile&descSize=20&descAlign=64&descAlignY=57)
 
-<a href="https://popcat.click/" target="_blank"><img src="https://img.shields.io/badge/younghk@umich.edu-EA4335?style=flat&logo=gmail&logoColor=E8E8E8"/></a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamyoungk&show_icons=true&theme=transparent)
-
 <p align="center" dir="auto">
     <strong><g-emoji class="g-emoji" alias="cloud" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2601.png">☁️</g-emoji>Portfolio List<g-emoji class="g-emoji" alias="cloud" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2601.png">☁️</g-emoji></strong><br><br>
     <a href="https://pgmjun.tistory.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/a79a005ba9545f18596b742700983978e04a0fe1127256134458645543e7da8a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546973746f72792d3533354436433f7374796c653d666c61742d737175617265266c6f676f3d546973746f7279266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&amp;logo=Tistory&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -28,3 +24,9 @@ Here are some ideas to get you started:
 <br><br>
 <strong><g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji>Email<g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji></strong><br>chltmdwns96@gmail.com<br>
 </p>
+
+<a href="https://popcat.click/" target="_blank"><img src="https://img.shields.io/badge/younghk@umich.edu-EA4335?style=flat&logo=gmail&logoColor=E8E8E8"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamyoungk&show_icons=true&theme=transparent)
+
+
