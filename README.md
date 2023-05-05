@@ -91,10 +91,11 @@ I want to be a developer like a flower blooming between asphalt.<br>
 
 <br>
 
-<div align="center" dir="auto">
-    <p dir="auto">
-        ![Young Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamyoungk&show_icons=true&theme=transparent)
-    </p>
-</div>
+<a href="https://github.com/iamyoungk/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamyoungk&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/iamyoungk/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamyoungk&repo=convoychat" />
+</a>
 
 
