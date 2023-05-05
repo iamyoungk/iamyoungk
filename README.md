@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center" dir="auto">
-Hello<g-emoji class="g-emoji" alias="open_hands" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f450.png">👐</g-emoji><br>
-My name is Young Kim and I am studying Frontend and Backend!<br>
-I am always eager to learn more.<br>
-I want to be a developer like a flower blooming between asphalt.<br>
+    Hello<g-emoji class="g-emoji" alias="open_hands" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f450.png">👐</g-emoji><br>
+    My name is Young Kim and I am studying Frontend and Backend!<br>
+    I am always eager to learn more.<br>
+    I want to be a developer like a flower blooming between asphalt.<br>
 </p>
 
 <p align="center" dir="auto">
-    <strong><g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png">⚒️</g-emoji>Tech Stack<g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png">⚒️</g-emoji></strong><br>
+    <strong><g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png">⚒️</g-emoji>Tech Stack<g-emoji class="g-emoji" alias="hammer_and_pick" fallback-         src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png">⚒️</g-emoji></strong><br>
 </p>
 
 <p align="center" dir="auto">
