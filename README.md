@@ -19,10 +19,10 @@ Here are some ideas to get you started:
     <strong><g-emoji class="g-emoji" alias="cloud" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2601.png">☁️</g-emoji>Portfolio List<g-emoji class="g-emoji" alias="cloud" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2601.png">☁️</g-emoji></strong><br><br>
     
 <br>
-<strong><g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji>Email<g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji></strong><br>younghkim0013@gmail.com<br>
+<strong><g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji>Email<g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji></strong><br><a href="" target="_blank"><img src="https://img.shields.io/badge/younghkim0013@gmail.com-EA4335?style=flat&logo=gmail&logoColor=E8E8E8"/></a><br>
 </p>
 
-<a href="https://popcat.click/" target="_blank"><img src="https://img.shields.io/badge/younghk@umich.edu-EA4335?style=flat&logo=gmail&logoColor=E8E8E8"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/younghkim0013@gmail.com-EA4335?style=flat&logo=gmail&logoColor=E8E8E8"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamyoungk&show_icons=true&theme=transparent)
 
