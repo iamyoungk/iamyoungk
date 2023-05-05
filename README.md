@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 -->
 
+<p align="center" dir="auto">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=43&desc=PgmYoung's%20GitHub%20Profile&descSize=20&descAlign=64&descAlignY=57)
+</p>
 
 <p align="center" dir="auto">
     <strong><g-emoji class="g-emoji" alias="cloud" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2601.png">☁️</g-emoji>Portfolio List<g-emoji class="g-emoji" alias="cloud" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2601.png">☁️</g-emoji></strong><br><br>
