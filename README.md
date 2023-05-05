@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <p align="center" dir="auto">
     <g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji>Language <br>
-    <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&amp;logo=java&amp;logoColor=white" style="max-width: 100%;"></a> 
+    <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/JAVA-007396?style=flat&amp;logo=java&amp;logoColor=white" style="max-width: 100%;"></a> 
     <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=Python&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
