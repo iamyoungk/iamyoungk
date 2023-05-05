@@ -17,9 +17,15 @@ Here are some ideas to get you started:
 
 <p align="center" dir="auto">
     <strong><g-emoji class="g-emoji" alias="cloud" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2601.png">☁️</g-emoji>Portfolio List<g-emoji class="g-emoji" alias="cloud" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2601.png">☁️</g-emoji></strong><br><br>
-    
-<br>
+
 <strong><g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji>Email<g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji></strong><br><a href="" target="_blank"><img src="https://img.shields.io/badge/younghkim0013@gmail.com-EA4335?style=flat&logo=gmail&logoColor=E8E8E8"/></a><br>
+</p>
+
+<p align="center" dir="auto">
+Hello<g-emoji class="g-emoji" alias="open_hands" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f450.png">👐</g-emoji><br>
+My name is Young Kim and I am studying Frontend and Backend!<br>
+I am always eager to learn more.<br>
+I want to be a developer like a flower blooming between asphalt.
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamyoungk&show_icons=true&theme=transparent)
