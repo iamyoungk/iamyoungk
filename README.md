@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 <p align="center" dir="auto">
     <g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji>Cowork Tools <br>
-    <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Github-000000?style=for-the-                                                   badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a>
     <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&amp;logo=notion&amp;logoColor=white" style="max-width: 100%;"></a>
     <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&amp;logo=slack&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
