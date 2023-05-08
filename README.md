@@ -39,6 +39,7 @@ Here are some ideas to get you started:
     <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&amp;logo=java&amp;logoColor=white" style="max-width: 100%;"></a> 
     <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=Python&amp;logoColor=white" style="max-width: 100%;"></a>
     <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=C&amp;logoColor=white" style="max-width: 100%;"></a>
 
 </p>
 
@@ -86,7 +87,6 @@ Here are some ideas to get you started:
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=C&amp;logoColor=white" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=Linux&amp;logoColor=white" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&amp;logo=jsp&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
