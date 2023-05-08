@@ -75,14 +75,11 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center" dir="auto">
-    <g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji>Used at least once
-</p>
+    <g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji>Used at least once <br>
 
-<p align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=Linux&amp;logoColor=white" style="max-width: 100%;"></a>
-
 </p>
 
 <br>
