@@ -36,10 +36,11 @@ Here are some ideas to get you started:
 
 <p align="center" dir="auto">
     <g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji>Language <br>
-    <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&amp;logo=java&amp;logoColor=white" style="max-width: 100%;"></a> 
-    <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=Python&amp;logoColor=white" style="max-width: 100%;"></a>
     <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B" style="max-width: 100%;"></a>
     <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=C&amp;logoColor=white" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&amp;logo=java&amp;logoColor=white" style="max-width: 100%;"></a> 
+    <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=Python&amp;logoColor=white" style="max-width: 100%;"></a>
 
 </p>
 
@@ -71,7 +72,6 @@ Here are some ideas to get you started:
     <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Github-000000?style=for-the-                                                   badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a>
     <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&amp;logo=notion&amp;logoColor=white" style="max-width: 100%;"></a>
     <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&amp;logo=slack&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
 <p align="center" dir="auto">
@@ -79,11 +79,10 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=Linux&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&amp;logo=jsp&amp;logoColor=white" style="max-width: 100%;"></a>
+
 </p>
 
 <br>
