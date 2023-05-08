@@ -75,11 +75,6 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center" dir="auto">
-    <g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji>CI/CD <br>
-    <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white" style="max-width: 100%;"></a>
-</p>
-
-<p align="center" dir="auto">
     <g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji>Used at least once
 </p>
 
