@@ -38,6 +38,8 @@ Here are some ideas to get you started:
     <g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji>Language <br>
     <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&amp;logo=java&amp;logoColor=white" style="max-width: 100%;"></a> 
     <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=Python&amp;logoColor=white" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/C++?style=for-the-badge&logo=c%2B%2B" style="max-width: 100%;"></a>
+
 </p>
 
 <p align="center" dir="auto">
