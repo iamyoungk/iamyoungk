@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center" dir="auto">
-<strong><g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji>Email<g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji></strong><br><a href="" target="_blank"><img src="https://img.shields.io/badge/younghkim0013@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=E8E8E8"/></a><br>
+<strong><g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji>Email<g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji></strong><br><a href="" target="_blank"><img src="https://img.shields.io/badge/younghkim0013@gmail.com-EA4335?style=flat&logo=gmail&logoColor=E8E8E8"/></a><br>
 </p>
 
 <p align="center" dir="auto">
