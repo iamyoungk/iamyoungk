@@ -15,16 +15,21 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=43&desc=PgmYoung's%20GitHub%20Profile&descSize=20&descAlign=64&descAlignY=57)
 
-<p align="center" dir="auto">
+<br>
+
+<!-- <p align="center" dir="auto">
     <strong><g-emoji class="g-emoji" alias="cloud" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2601.png">☁️</g-emoji>Portfolio List<g-emoji class="g-emoji" alias="cloud" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2601.png">☁️</g-emoji></strong><br><br>
-</p>
+</p> -->
 
 <p align="center" dir="auto">
-<strong><g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji>Email<g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji></strong><br><a href="" target="_blank"><img src="https://img.shields.io/badge/younghkim0013@gmail.com-EA4335?style=flat&logo=gmail&logoColor=E8E8E8"/></a><br>
+<Strong>📧Email📧</Strong><br><a href="" target="_blank"><img src="https://img.shields.io/badge/younghkim0013@gmail.com-EA4335?style=flat&logo=gmail&logoColor=E8E8E8"/></a><br>
+    
 </p>
 
+<br>
+
 <p align="center" dir="auto">
-    Hello<g-emoji class="g-emoji" alias="open_hands" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f450.png">👐</g-emoji><br>
+    Hello👐<br>
     My name is Young Kim and I am studying Frontend and Backend!<br>
     Always ready to dive in.<br>
     A developer like a flower blooming between asphalt.<br>
