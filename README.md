@@ -44,51 +44,53 @@ Here are some ideas to get you started:
 <p align="center" dir="auto">
     💡Language <br>
     <img src="https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B">
-    <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=C&amp;logoColor=white" style="max-width: 100%;"></a>
-      <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&amp;logo=java&amp;logoColor=white" style="max-width: 100%;"></a> 
-    <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=Python&amp;logoColor=white" style="max-width: 100%;"></a>
-
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=C&amp;logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black">
+    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&amp;logo=java&amp;logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=Python&amp;logoColor=white">
 </p>
 
 <p align="center" dir="auto">
-    <g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji>Backend <br>
-    <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&amp;logo=Spring&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&amp;logo=SpringBoot&amp;logoColor=white" style="max-width: 100%;"></a>
+    💡Backend <br>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&amp;logo=Spring&amp;logoColor=white">
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&amp;logo=SpringBoot&amp;logoColor=white">
 </p>
 
 <p align="center" dir="auto">
-    <g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji>Tools <br>
-    <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&amp;logo=IntelliJ IDEA&amp;logoColor=white" style="max-width: 100%;"></a> 
+   💡Tools <br>
+    <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&amp;logo=IntelliJ IDEA&amp;logoColor=white">
 </p>
 
 <p align="center" dir="auto">
-    <g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji>DB <br>
-    <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=MongoDB&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" style="max-width: 100%;"></a>
+    💡DB <br>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=MongoDB&amp;logoColor=white">
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white">
 </p>
 
 <p align="center" dir="auto">
-    <g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji>DevOps / Infra <br>
-    <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=Amazon AWS&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" style="max-width: 100%;"></a>
+    💡DevOps / Infra <br>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=Amazon AWS&amp;logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white">
 </p>
 
 <p align="center" dir="auto">
-    <g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji>Cowork Tools <br>
-    <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&amp;logo=notion&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&amp;logo=slack&amp;logoColor=white" style="max-width: 100%;"></a>
+    💡Cowork Tools <br>
+    <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&amp;logo=github&amp;logoColor=white">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&amp;logo=notion&amp;logoColor=white">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&amp;logo=slack&amp;logoColor=white">
 </p>
 
 <p align="center" dir="auto">
-    <g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji>Used at least once <br>
-  <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=Linux&amp;logoColor=white" style="max-width: 100%;"></a>
+    💡Used at least once <br>
+    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white">
+    <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=Linux&amp;logoColor=white">
 </p>
 
 <br>
 
-![Young Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamyoungk&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true)
+<div align="center">
 
+![Young Kim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamyoungk&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true)
+
+</div>
