@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center" dir="auto">
-    <strong>⚒️Tech Stack⚒️</strong><br>
+    <Strong>⚒️Tech Stack⚒️</Strong><br>
 </p>
 
 <p align="center" dir="auto">
