@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=43&desc=PgmYoung's%20GitHub%20Profile&descSize=20&descAlign=64&descAlignY=57)
+![header](https://capsule-render.vercel.app/api?type=waving&color=transparent&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=43&desc=PgmYoung's%20GitHub%20Profile&descSize=20&descAlign=64&descAlignY=57)
 
 <br>
 
