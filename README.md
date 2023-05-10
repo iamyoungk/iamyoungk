@@ -35,8 +35,10 @@ Here are some ideas to get you started:
     A developer like a flower blooming between asphalt.<br>
 </p>
 
+<br>
+
 <p align="center" dir="auto">
-    <strong><g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png">⚒️</g-emoji>Tech Stack<g-emoji class="g-emoji" alias="hammer_and_pick" fallback-         src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png">⚒️</g-emoji></strong><br>
+    <strong>⚒️Tech Stack⚒️</strong><br>
 </p>
 
 <p align="center" dir="auto">
