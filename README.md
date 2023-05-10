@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     Hello👐<br>
     My name is Young Kim and I am studying Frontend and Backend!<br>
     Always ready to dive in.<br>
-    A developer like a flower blooming between asphalt.<br>
+    I want to be a developer like a flower blooming between asphalt.<br>
 </p>
 
 <br>
