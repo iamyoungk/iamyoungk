@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center" dir="auto">
-    <g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji>Language <br>
-    <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B" style="max-width: 100%;"></a>
+    💡Language <br>
+    <img src="https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B">
     <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=C&amp;logoColor=white" style="max-width: 100%;"></a>
       <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;"></a>
     <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&amp;logo=java&amp;logoColor=white" style="max-width: 100%;"></a> 
