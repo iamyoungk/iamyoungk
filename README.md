@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <p align="center" dir="auto">
     Hello👐<br>
-    My name is Young Kim and I am studying Frontend and Backend!<br>
+    My name is Young Kim and I am interested in game developing!<br>
     Always ready to dive in.<br>
     I want to be a developer like a flower blooming between asphalt.<br>
 </p>
