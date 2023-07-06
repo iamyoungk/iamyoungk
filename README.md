@@ -13,14 +13,21 @@
         <img src="https://img.shields.io/badge/younghkim0013@gmail.com-EA4335?style=flat&logo=gmail&logoColor=E8E8E8"/>
     </a>
     <br>
-    
 </p>
 
+<p align="center" dir="auto">
+    <Strong>📝Notion📝</Strong><br><a href="" target="_blank">
+        <img src="https://img.shields.io/badge/younghkim0013@gmail.com-EA4335?style=flat&logo=gmail&logoColor=E8E8E8"/>
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&amp;logo=notion&amp;logoColor=white">
+    </a>
+    <br>
+    
+</p>
 <br>
 
 <p align="center" dir="auto">
     Hello👐<br>
-    My name is Young Kim and I am interested in game developing!<br>
+    My name is Young Kim and I am interested in game development!<br>
     Always ready to dive in.<br>
     I want to be a developer like a flower blooming between asphalt.<br>
 </p>
