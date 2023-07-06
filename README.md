@@ -10,14 +10,14 @@
 
 <p align="center" dir="auto">
     <Strong>📧Email📧</Strong><br><a href="" target="_blank">
-        [<img src="https://img.shields.io/badge/younghkim0013@gmail.com-EA4335?style=flat&logo=gmail&logoColor=E8E8E8"/>](https://www.notion.so/Welcome-2eca83e8f42a46278c4f4490f9345783?pvs=4)
+        <img src="https://img.shields.io/badge/younghkim0013@gmail.com-EA4335?style=flat&logo=gmail&logoColor=E8E8E8"/>
     </a>
     <br>
 </p>
 
 <p align="center" dir="auto">
     <Strong>📝Notion📝</Strong><br><a href="" target="_blank">
-        <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&amp;logo=notion&amp;logoColor=white">
+        <img src="https://img.shields.io/badge/Notion-FFFFFF?link=https://www.notion.so/Welcome-2eca83e8f42a46278c4f4490f9345783?pvs=4&style=for-the-badge&amp;logo=notion&amp;logoColor=black">
     </a>
     <br>
     
