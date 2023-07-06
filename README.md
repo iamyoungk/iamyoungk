@@ -76,7 +76,7 @@
 <p align="center" dir="auto">
     💡Cowork Tools <br>
     <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&amp;logo=github&amp;logoColor=white">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&amp;logo=notion&amp;logoColor=white">
+    <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&amp;logo=notion&amp;logoColor=black">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&amp;logo=slack&amp;logoColor=white">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white">
     <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white">
