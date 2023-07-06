@@ -17,7 +17,7 @@
 
 <p align="center" dir="auto">
     <Strong>📝Notion📝</Strong><br><a href="" target="_blank">
-        <img src="https://img.shields.io/badge/Notion-FFFFFF?link=https://www.notion.so/Welcome-2eca83e8f42a46278c4f4490f9345783?pvs=4&style=for-the-badge&amp;logo=notion&amp;logoColor=black">
+        <img src="https://img.shields.io/badge/Notion-FFFFFF?:badgeContent?link=https://www.notion.so/Welcome-2eca83e8f42a46278c4f4490f9345783?pvs=4&style=for-the-badge&amp;logo=notion&amp;logoColor=black">
     </a>
     <br>
     
