@@ -9,7 +9,10 @@
 </p>
 
 <p align="center" dir="auto">
-    <Strong>📧Email📧</Strong><br><a href="" target="_blank"><img src="https://img.shields.io/badge/younghkim0013@gmail.com-EA4335?style=flat&logo=gmail&logoColor=E8E8E8"/></a><br>
+    <Strong>📧Email📧</Strong><br><a href="" target="_blank">
+        <img src="https://img.shields.io/badge/younghkim0013@gmail.com-EA4335?style=flat&logo=gmail&logoColor=E8E8E8"/>
+<!--     </a> -->
+    <br>
     
 </p>
 
