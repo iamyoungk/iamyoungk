@@ -97,9 +97,3 @@
 
 <br>
 
-<div align="center">
-
-![Young Kim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamyoungk&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=false)
-
-</div>
-
