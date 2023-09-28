@@ -33,7 +33,6 @@
     Hello👐<br>
     My name is Young Kim and I am interested in game development!<br>
     Always ready to dive in.<br>
-    I want to be a developer like a flower blooming between asphalt.<br>
 </p>
 
 <br>
