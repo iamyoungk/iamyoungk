@@ -31,7 +31,7 @@
 
 <p align="center" dir="auto">
     Hello👐<br>
-    My name is Young Kim and I am interested in game development!<br>
+    My name is Young Kim and I am interested in game development.<br>
     Always ready to dive in.<br>
 </p>
 
